@@ -1,0 +1,1 @@
+java -jar dist/PL_SOURCE.jar
